@@ -1,0 +1,17 @@
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44820
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;google.com.                    IN      A
+
+;; ANSWER SECTION:
+google.com.             60      IN      A       216.58.212.14
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52346
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;google.com.                    IN      AAAA
+
+;; ANSWER SECTION:
+google.com.             60      IN      AAAA    2a00:1450:4017:804::200e
